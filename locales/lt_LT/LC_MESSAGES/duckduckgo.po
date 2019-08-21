@@ -20,18 +20,18 @@ msgstr ""
 "%100<10 || n%100>=20) ? 1 : 2;\n"
 
 msgid "!Bang Search Shortcuts"
-msgstr ""
+msgstr "!Bang Paieškos Nuorodos"
 
 msgctxt "showcase_donations"
 msgid "$800,000 in privacy donations!"
-msgstr ""
+msgstr "800,000$ privatumui paaukotos lėšos"
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
-msgstr ""
+msgstr "%s Milijardai Paieškų"
 
 msgid "%s blocked by safe search."
-msgstr ""
+msgstr "%s išjungta saugios paieškos"
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
@@ -39,18 +39,18 @@ msgstr "%s, jei %s"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
-msgstr ""
+msgstr "%s privatumui paaukotos lėšos"
 
 msgid "%s km"
-msgstr ""
+msgstr "%s km"
 
 msgid "%s mi"
-msgstr ""
+msgstr "%s mi"
 
 #. This is used to add attribution to user reviews on websites, e.g. "John Doe on Yelp"
 msgctxt "maps_places"
 msgid "%s on %s"
-msgstr ""
+msgstr "%s iš %s"
 
 msgctxt "hackus"
 msgid "%s us."
@@ -68,35 +68,36 @@ msgstr "%s mus."
 
 msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
-msgstr ""
+msgstr "%s%s%s Milijardai paieškų"
 
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
-msgstr ""
+msgstr "%sSpustelėkite #sLeisti%sSpustelėkite %Pridėti%Tikrinti %Leisti, tada spustelėkite %Gerai"
 
 msgctxt "install-duckduckgo"
 msgid ""
 "%sClick %sContinue To Installation%sClick %sAdd%sCheck %sAllow%s, then click "
 "%sOkay%s"
-msgstr ""
+msgstr "%sSpustelėkite %sTęsti instaliaciją%Spustelėkite %sPridėti%sTikrinti %Suteikti leidimą%s, tada spustelėkite 
+%sGerai%s"
 
 msgctxt "noresults"
 msgid ""
 "%sClick here%s to try again, if you think there should be results for this "
 "search."
-msgstr ""
+msgstr "%sSpustlėkite čia%s norėdami mėginti dar kartą."
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo!%s"
-msgstr ""
+msgstr "%sPadėkite DuckDuckGo plėstis!%s"
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo%s."
-msgstr ""
+msgstr "%sPadėkite DuckDuckGo plėstis"
 
 msgctxt "frontpage"
 msgid "%sLearn More%s."
-msgstr ""
+msgstr "%sSužinokite Daugiau%s"
 
 msgid "%sRight click%s in the search bar"
 msgstr ""
