@@ -532,13 +532,13 @@ msgstr "Kalendorius"
 
 msgctxt "maps_places"
 msgid "Call"
-msgstr ""
+msgstr "Skambinti"
 
 msgid "Canada"
-msgstr ""
+msgstr "Kanada"
 
 msgid "Canada (fr)"
-msgstr ""
+msgstr "Kanada"
 
 msgid "Cancel"
 msgstr "Atšaukti"
@@ -548,10 +548,10 @@ msgid "Care to help translate DuckDuckGo into your language?"
 msgstr "Ar norėtum padėti išversti DuckDuckGo į tavo kalbą?"
 
 msgid "Careers"
-msgstr ""
+msgstr "Darbuotuojai"
 
 msgid "Catalonia"
-msgstr ""
+msgstr "Katalonija"
 
 #. In 0-click box -- link to category page.
 msgid "Category"
@@ -642,35 +642,35 @@ msgstr "Pakeičia atsaką į vaizdo įrašo nuorodos spustelėjimą"
 
 msgctxt "settings"
 msgid "Changes whether the visited check mark is visible"
-msgstr ""
+msgstr "Nustatymai"
 
 msgid "Chat"
 msgstr "Kalbėtis"
 
 msgid "Check %sMake this the current search engine%s"
-msgstr ""
+msgstr "Tikrinti %sNustatyti šią paieškos sistemą"
 
 msgctxt "SERP footer content"
 msgid "Check out our privacy device guides."
-msgstr ""
+msgstr "Peržvelkite mūsų privataus įrenginio vadovą."
 
 msgctxt "showcase_privacy"
 msgid "Check out our privacy device guides."
-msgstr ""
+msgstr "Peržvelkite mūsų privataus įrenginio vadovą."
 
 msgctxt "showcase_aria_label"
 msgid "Check out the list of things that we've also made."
-msgstr ""
+msgstr "Peržvelkite sąraša dalykų, kuriuos mes padarėme.
 
 msgctxt "Report image modal"
 msgid "Child sexual abuse"
-msgstr ""
+msgstr "Vaiko apsaugo, nuo seksualinio turinio."
 
 msgid "Chile"
-msgstr ""
+msgstr "Čilė"
 
 msgid "China"
-msgstr ""
+msgstr "Kinija"
 
 #. http://i.imgur.com/f8Ae6jo.png
 msgctxt "cloudsave"
@@ -683,7 +683,7 @@ msgstr "Pasirinkite kategoriją"
 
 msgctxt "maps_places"
 msgid "Choose service"
-msgstr ""
+msgstr "Pasirinkite tiekėja"
 
 msgid "Choose subcategory"
 msgstr "Pasirinkite subkategoriją"
@@ -694,41 +694,41 @@ msgid "Classic"
 msgstr "Klasikinė"
 
 msgid "Clear"
-msgstr ""
+msgstr "Pašalinti"
 
 msgid "Clear All"
-msgstr ""
+msgstr "Pašalinti viską"
 
 msgid "Clear Region"
 msgstr "Valyti Vietovę"
 
 msgid "Clear your cookies often?"
-msgstr ""
+msgstr "Kaip dažnai valyti slapukus?"
 
 msgid "Click %s+%s!"
-msgstr ""
+msgstr "Spustelėkite %s+%s"
 
 msgctxt "install-duckduckgo"
 msgid "Click %sAdd Extension%s."
-msgstr ""
+msgstr "Spustelėkite %Pridėti papildinį%s"
 
 msgid "Click %sAdd or change home page...%s"
-msgstr ""
+msgstr "Spustelėkite %sPridėti ar pašalinti pradžios puslapį...%s"
 
 msgid "Click %sAdd%s"
 msgstr "Spauskite %sPridėti%s"
 
 msgctxt "install-duckduckgo"
 msgid "Click %sAllow%s, then %sAdd%s."
-msgstr ""
+msgstr "Spustelėkite %sLeisti%s, paskiau %sPridėti%s"
 
 msgid "Click %sChange Search Settings%s in the drop down"
-msgstr ""
+msgstr "Spustelėkite %Keisti paieškos nustatymus%s išskleistame saraše"
 
 msgid ""
 "Click %sEdit > Preferences%s (on Windows) %sSeaMonkey > Preferences%s (on "
 "Mac)"
-msgstr ""
+msgstr "Spustelėkite %sRedaguoti > Parametrai%as (Windows) %sSeaMonkey > Parametrai%s (Mac)"
 
 msgid "Click %sHere%s to add us as a search engine"
 msgstr ""
